@@ -1,0 +1,4 @@
+Height of the grid: 
+Width of the grid: 
+Increment Factor: 
+Now enter the grid row by row:

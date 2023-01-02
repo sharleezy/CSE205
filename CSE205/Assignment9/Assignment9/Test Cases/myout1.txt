@@ -1,0 +1,53 @@
+
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
+Please enter integers:
+The largest prime number in the array is: 43
+
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
+Please enter integers:
+The largest prime number in the array is: 3
+
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
+Please enter integers:
+The largest prime number in the array is: 97
+
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
+Please enter integers:
+The largest prime number in the array is: 73
+
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+

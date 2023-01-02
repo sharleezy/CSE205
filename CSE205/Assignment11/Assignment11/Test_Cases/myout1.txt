@@ -1,0 +1,14 @@
+Height of the grid: 
+Width of the grid: 
+Increment Factor: 
+Now enter the grid row by row:
+Original grid: 
+5	2	8	
+1	7	6	
+9	4	3	
+
+Grid after increment: 
+10	7	13	
+6	12	11	
+14	9	8	
+

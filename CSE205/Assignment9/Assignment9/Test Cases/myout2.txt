@@ -1,0 +1,49 @@
+
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
+Please enter integers:
+The sum of all even numbers in the array is: 12
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
+Please enter integers:
+The sum of all even numbers in the array is: 136
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
+Please enter integers:
+The sum of all even numbers in the array is: 8
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
+Please enter integers:
+The sum of all even numbers in the array is: 0
+What would you like to do?
+
+1: Find the largest prime number in an array of integers
+2: Calculate the sum of all even numbers in an array of integers
+3: Check if a string is palindrome or not
+4: Remove all occurrences of character "A" in a String
+5: Quit
+
